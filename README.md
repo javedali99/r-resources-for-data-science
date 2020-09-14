@@ -9,22 +9,22 @@ Here you can find a number of great R books from top most creators and data scie
 * [R Stats](#r-stats)
 * [{ggplot2}](#ggplot2)
   + [Useful Packages](#useful-packages)
-* [Statistics with R](#statswithr)
-* [Machine Learning with R](#ml)
-* [R Spatial](#spat)
-* [Data Visualization](#dataviz)
-  + [Colors](#cols)
-  + [Chart Types](#charts)
+* [Statistics with R](#statistics-with-r)
+* [Machine Learning with R](#machine-learning-with-r)
+* [R Spatial](#r-spatial)
+* [Data Visualization](#data-visualization)
+  + [Colors](#colors)
+  + [Chart Types](#chart-types)
   + [Fonts](#fonts)
-  + [Mapping](#maps)
-  + [Other helpful resources](#other)
-* [R Markdown](#rmarkdown)
-* [R Shiny Apps](#shiny)
-* [R Package Development](#package)
-* [R Packages Tutorials](#r-package-tut)
+  + [Mapping](#mapping)
+  + [Other helpful resources](#other-helpful-data-visualization-resources)
+* [R Markdown](#r-markdown)
+* [R Shiny Apps](#r-shiny-apps)
+* [R Package Development](#r-package-development)
+* [R Packages Tutorials](#r-packages-tutorials)
   + [Tidymodels](#tidymodels)
-* [Interesting Personal Blogs](#blogs)
-* [Get Help](#help)
+* [Interesting Personal Blogs](#interesting-personal-blogs)
+* [Get Help](#get-help)
 
 ---
 
@@ -114,7 +114,7 @@ Here you can find a number of great R books from top most creators and data scie
 * `{showtext}` — use custom fonts → [github.com/yixuan/showtext](github.com/yixuan/showtext)
 
 
-## Statistics with R {#statswithr}
+## Statistics with R 
 
 * ["Statistical Thinking for the 21st Century"](https://statsthinking21.github.io/statsthinking21-core-site/) — free online book :closed_book: by Russell A. Poldrack
 * ["Statistics for Social Sciences II: Multivariate Techniques"](https://bookdown.org/egarpor/SSS2-UC3M/) — notes by Eduardo García Portugués 
@@ -125,7 +125,7 @@ Here you can find a number of great R books from top most creators and data scie
 
 
 
-## Machine Learning with R {#ml}
+## Machine Learning with R 
 
 * [Your First Machine Learning Project in R Step-By-Step](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/) — blogpost by Jason Brownlee 
 * [Introduction to Machine Learning with the Tidyverse](https://conf20-intro-ml.netlify.app/) — two-day workshop offered at rstudio::conf 2020 by Alison Hill & Garrett Grolemund
@@ -135,7 +135,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) — free online book :closed_book: by Christoph Molnar
 
 
-## R Spatial {#spat}
+## R Spatial 
 
 * ["Geocomputation with R"](https://geocompr.robinlovelace.net/index.html) — free online book :closed_book: by Robin Lovelace, Jakub Nowosad & Jannes Muenchow
 * [Spatial Data Science with R](https://www.rspatial.org/)
@@ -148,7 +148,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [Introduction to GIS with R](https://www.jessesadler.com/post/gis-with-r-intro/) — a blogpost by Jesse Sadler
 
 
-## Data Visualization {#dataviz}
+## Data Visualization 
 
 * ["Data Visualization"](http://socviz.co/) — free online book :closed_book: by Kieran Healy  
 * ["Interactive web-based data visualization with R, plotly, and shiny"](https://plotly-r.com/) — free online book :closed_book: by Carson Sievert
@@ -168,7 +168,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [Principles & Practice of Data Visualization](https://apreshill.github.io/data-vis-labs-2018/) — slides :bar_chart: for the Data Visualization course at Oregon Health & Science University
 
 
-### Colors {#cols}
+### Colors 
 
 * [Viz Palette](https://projects.susielu.com/viz-palette?colors=["#ffd700","#ffb14e","#fa8775","#ea5f94","#cd34b5","#9d02d7","#0000ff"]&backgroundColor="white"&fontColor="black"&mode="normal") — colors in action (plus colorblind check)
 * [Color Space](https://mycolor.space/) — color palette generator
@@ -188,7 +188,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [Photochrome](https://photochrome.io/) — word-based color pallettes.
 
 
-### Chart Types {#charts}
+### Chart Types 
 
 * [From Data to Viz](https://www.data-to-viz.com/) — A decision tree for dozens of chart types with links to R and Python code.
 * [Data Viz Project](https://datavizproject.com/) — Descriptions and examples for 150 different types of visualizations. Also allows you to search by data shape and chart function (comparison, correlation, distribution, geographical, part to whole, trend over time, etc.).
@@ -202,13 +202,13 @@ Here you can find a number of great R books from top most creators and data scie
 * [Emery’s Essentials](http://annkemery.com/essentials/) — Descriptions and examples of 26 different chart types.
 
 
-### Fonts {#fonts}
+### Fonts 
 
 * [Google Fonts](https://fonts.google.com/) — Huge collection of free, well-made fonts.
 * [The Ultimate Collection of Google Font Pairings](https://www.reliablepsd.com/ultimate-google-font-pairings/) — A list of great, well-designed font pairings from all those fonts hosted by Google (for when you’re looking for good contrasting or complementary fonts).
 
 
-### Mapping {#maps}
+### Mapping 
 
 * [Spatial.ly Blog](http://spatial.ly/) by James Cheshire
 * [Bivariate Chloropleth Maps](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
@@ -216,7 +216,7 @@ Here you can find a number of great R books from top most creators and data scie
 
 
 
-### Other helpful data visualization resources {#other}
+### Other helpful data visualization resources 
 
 * [Storytelling with Data](http://www.storytellingwithdata.com/) — Blog and site full of resources by Cole Nussbaumer Knaflic.
 * [Ann K. Emery’s blog](http://annkemery.com/blog/) — Blog and tutorials by Ann Emery.
@@ -235,7 +235,7 @@ Here you can find a number of great R books from top most creators and data scie
 
 
 
-## R Markdown {#rmarkdown}
+## R Markdown 
 
 * ["R Markdown: The Definitive Guide"](https://bookdown.org/yihui/rmarkdown/) — free online book :closed_book: by Yihui Xie, J. J. Allaire, Garrett Grolemund
 * ["R Markdown Cookbook"](https://bookdown.org/yihui/rmarkdown-cookbook/) — free online book :closed_book: by Yihui Xie and Christophe Dervieux
@@ -250,7 +250,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [Hugo - Static Site Generator](https://www.mikedane.com/static-site-generators/hugo/) — A complete course by Mike Dane
 
 
-## R Shiny Apps {#shiny}
+## R Shiny Apps 
 
 * [R Shiny Dashboard (Complete Tutorial)](https://www.youtube.com/embed/videoseries?list=PLH6mU1kedUy_Of03954Dr8Q3r2kFIB-KS) - YouTube :tv: Tutorials
 * ["Mastering Shiny"](https://mastering-shiny.org/) — free online book :closed_book: by Hadley Wickham
@@ -259,16 +259,16 @@ Here you can find a number of great R books from top most creators and data scie
 * [Learn Shiny](https://shiny.rstudio.com/tutorial/) — tutorials :tv: by [RStudio](https://rstudio.com/)
 
 
-## R Package Development {#package}
+## R Package Development 
 
 * ["Mastering Software Development in R"](https://bookdown.org/rdpeng/RProgDA/) — free online book :closed_book: by Roger D. Peng, Sean Kross & Brooke Anderson
 * ["R Packages"](https://r-pkgs.org/) — free online book :closed_book: by Hadley Wickham
 
 
 
-## R Packages Tutorials {#r-package-tut}
+## R Packages Tutorials 
 
-### Tidymodels {#tidymodels}
+### Tidymodels 
 
 * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/) — a blogpost by Edgar Ruiz
 * [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/post/tidymodels-intro/) — a beginner-friendly guide to the `tidymodels` by Meghan Hall
@@ -281,7 +281,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [Exploring Tidymodels](https://www.kaggle.com/ar89dsl/exploring-tidymodels) 
 
 
-## Interesting Personal Blogs<br>(Random Topics, Random Order 🤷) {#blogs}
+## Interesting Personal Blogs (Random Topics, Random Order 🤷) 
 
 * [Chisato](https://chichacha.netlify.com/) — colors & art with `{ggplot2}`
 * [Dominic Roye](https://dominicroye.github.io/en/) — mapping with `{ggplot2}`
@@ -299,7 +299,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [Cédric Scherer](https://cedricscherer.netlify.app/) — data visualization
 
 
-## Get Help {#help}
+## Get Help 
 
 * [Getting help in R: do as I say, not as I've done](https://sctyner.github.io/rhelp.html) — blogpost by Sam Tyner
 * [RStudio Community](https://community.rstudio.com/) 
