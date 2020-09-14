@@ -273,4 +273,37 @@ Here you can find a number of great R books from top most creators and data scie
 * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/) — a blogpost by Edgar Ruiz
 * [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/post/tidymodels-intro/) — a beginner-friendly guide to the `tidymodels` by Meghan Hall
 * [Predictive modeling in R with tidymodels and NFL attendance](https://juliasilge.com/blog/intro-tidymodels/) — a video tutorial :tv: on `tidymodels` using #TidyTuesday dataset by Julia Silge 
-* [Modelling with Tidymodels and Parsnip](https://towardsdatascience.com/modelling-with-tidymodels-and-parsnip-bae2c01c131c) — a post by Diego Usai. If you can not access the post on the above link, click [here](https://diegousai.i
+* [Modelling with Tidymodels and Parsnip](https://towardsdatascience.com/modelling-with-tidymodels-and-parsnip-bae2c01c131c) — a post by Diego Usai. If you can not access the post on the above link, click [here](https://diegousai.io/2019/06/modelling-with-tidymodels-and-parsnip/)
+* [Modeling with `parsnip` and `tidymodels`](https://www.benjaminsorensen.me/post/modeling-with-parsnip-and-tidymodels/) — a post by Benjamin Chang Sorensen
+* [Learn `tidymodels`](https://www.tidymodels.org/)
+* You can also learn `tidymodels` in your RStudio IDE with interactive `learnr` primers using `learntidymodels` package. Follow the instructions [here](https://github.com/tidymodels/learntidymodels). 
+* [Tidymodels: tidy machine learning in R](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) — a blogpost by Rebecca Barter 
+* [Exploring Tidymodels](https://www.kaggle.com/ar89dsl/exploring-tidymodels) 
+
+
+## Interesting Personal Blogs<br>(Random Topics, Random Order 🤷) {#blogs}
+
+* [Chisato](https://chichacha.netlify.com/) — colors & art with `{ggplot2}`
+* [Dominic Roye](https://dominicroye.github.io/en/) — mapping with `{ggplot2}`
+* [David Smale](https://davidsmale.netlify.com/) — `{shiny}`, `{ggplot2}` and more
+* [Andy Kirk](https://www.visualisingdata.com/blog/) — all about DataViz!
+* [Maëlle Salmon](https://masalmon.eu/) — "goofing around with R"
+* [David Robinson](http://varianceexplained.org/) — data science using the `{tidyverse}`
+* [Charlotte Robinson](https://robinsones.github.io/) — data science
+* [Bruno Rodrigues](https://www.brodrigues.co/) — data science in R and Python
+* [James Cheshire](https://spatial.ly/) — beautiful mapping
+* [Ilya Kashnitsky](https://ikashnitsky.github.io/) — maps & demography in R
+* [Hugo Toscano](https://toscano84.github.io/) — data science in R
+* [Geoff Boeing](https://geoffboeing.com) — Python & GIS
+* [Our World in Data](https://ourworldindata.org/blog) — "data on the world’s largest problems"
+* [Cédric Scherer](https://cedricscherer.netlify.app/) — data visualization
+
+
+## Get Help {#help}
+
+* [Getting help in R: do as I say, not as I've done](https://sctyner.github.io/rhelp.html) — blogpost by Sam Tyner
+* [RStudio Community](https://community.rstudio.com/) 
+* [R4DS Learning Community](https://www.rfordatasci.com/)
+* [#TidyTuesday Community on Twitter](https://twitter.com/hashtag/tidytuesday?lang=en)
+* [#rstats Community on Twitter](https://twitter.com/hashtag/rstats?lang=en)
+* [R Cheatsheets](https://rstudio.com/resources/cheatsheets/)
