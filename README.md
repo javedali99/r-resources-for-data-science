@@ -2,7 +2,10 @@
 
 Here you can find a number of great R books from top most creators and data scientists and other useful R related resources available online for free :books: :file_folder:
 
-Original blogpost: https://www.javedali.net/post/r-resources/
+[Original blogpost](https://www.javedali.net/post/r-resources/)
+
+Follow me on [Twitter](https://twitter.com/javedali99)
+
 
 ---
 
