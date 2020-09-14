@@ -281,7 +281,9 @@ Here you can find a number of great R books from top most creators and data scie
 * [Exploring Tidymodels](https://www.kaggle.com/ar89dsl/exploring-tidymodels) 
 
 
-## Interesting Personal Blogs (Random Topics, Random Order 🤷) 
+## Interesting Personal Blogs 
+
+**(Random Topics, Random Order 🤷)** 
 
 * [Chisato](https://chichacha.netlify.com/) — colors & art with `{ggplot2}`
 * [Dominic Roye](https://dominicroye.github.io/en/) — mapping with `{ggplot2}`
