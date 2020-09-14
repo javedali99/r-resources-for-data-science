@@ -6,9 +6,9 @@ Here you can find a number of great R books from top most creators and data scie
 
 ### Content
 
-* [R Stats](#rstats)
-* [{ggplot2}](#gg)
-  + [Useful Packages](#ggpackages)
+* [R Stats](#r-stats)
+* [{ggplot2}](#ggplot2)
+  + [Useful Packages](#useful-packages)
 * [Statistics with R](#statswithr)
 * [Machine Learning with R](#ml)
 * [R Spatial](#spat)
@@ -28,7 +28,7 @@ Here you can find a number of great R books from top most creators and data scie
 
 ---
 
-## R Stats {#rstats}
+## R Stats 
 
 * ["Cookbook for R"](http://www.cookbook-r.com/) — free online book :closed_book: by Winston Chang
 * ["Technical Foundations of Informatics"](https://info201.github.io/) — free online book :closed_book: by Michael Freeman & Joel Ross
@@ -80,7 +80,7 @@ Here you can find a number of great R books from top most creators and data scie
 
 
 
-## `{ggplot2}` {#gg}
+## `{ggplot2}` 
 
 * ["ggplot2: Elegant Graphics for Data Analysis"](https://ggplot2-book.org/) — free online book :closed_book: by Hadley Wickham
 * [Source code of the book :closed_book: "Fundamentals of Data Visualization"](https://github.com/clauswilke/dataviz)
@@ -93,7 +93,7 @@ Here you can find a number of great R books from top most creators and data scie
 * [An Introduction to {ggplot2}](https://cedricscherer.netlify.com/slides/2019-08-28-intro-ggplot-statsizw#1) — slides :bar_chart: by Cédric Scherer
 * [Data Science and Visualizations with R](https://bookdown.org/datavizsolutions/02-dplyr/) — free course by Jonathan Wong on the use of tidyverse packages  
 
-### Useful Packages {#ggpackages}
+### Useful Packages 
 
 * `{cowplot}` — plot arrangements, themes & annotations → [wilkelab.org/cowplot](wilkelab.org/cowplot)
 * `{ggalt}` — alternative coords, geoms, stats & scales → [github.com/hrbrmstr/ggalt](github.com/hrbrmstr/ggalt)
