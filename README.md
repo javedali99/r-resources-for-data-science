@@ -1,5 +1,9 @@
 # [Free Resources for Learning R Programming for Data Science](https://www.javedali.net/post/r-resources/)
 
+<p align="center">
+  <img src="https://www.javedali.net/post/r-resources/featured.png?raw=true" alt="r-resources"/>
+</p>
+
 Here you can find a number of great R books from top most creators and data scientists and other useful R related resources available online for free :books: :file_folder:
 
 
