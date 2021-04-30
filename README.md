@@ -200,7 +200,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * ["Introduction to Web Mapping"](http://geobgu.xyz/web-mapping/) — free online book :closed_book: by Michael Dorman
 * [Introduction to GIS with R](https://www.jessesadler.com/post/gis-with-r-intro/) — a blogpost by Jesse Sadler
 
-#### Spatial Visualization
+### Spatial Visualization
 
 * [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
 * [3D Lego Map and visualize Columbus Voyage - Rayshade rWalkthrough [GIF]](https://arthurwelle.github.io/RayshaderWalkthrough/index.html)
