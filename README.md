@@ -25,14 +25,17 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Statistics with R](#statistics-with-r)
 * [Machine Learning with R](#machine-learning-with-r)
 * [R Spatial](#r-spatial)
+  + [Spatial Visualization](#spatial-visualization)
 * [Data Visualization](#data-visualization)
   + [Colors](#colors)
   + [Chart Types](#chart-types)
   + [Fonts](#fonts)
   + [Interactive plots](#Interactive-plots)
   + [Network Visualization](#network-visualization)
-  + [Spatial Visualization](#spatial-visualizatio)
   + [Tables](#tables)
+  + [Tutorials](#tutorials)
+      + [Plots](#plots)
+      + [Drawing](#drawing)  
   + [Other helpful resources](#other-helpful-data-visualization-resources)
 * [R Markdown](#r-markdown)
 * [R Shiny Apps](#r-shiny-apps)
@@ -197,6 +200,26 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * ["Introduction to Web Mapping"](http://geobgu.xyz/web-mapping/) — free online book :closed_book: by Michael Dorman
 * [Introduction to GIS with R](https://www.jessesadler.com/post/gis-with-r-intro/) — a blogpost by Jesse Sadler
 
+#### Spatial Visualization
+
+* [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
+* [3D Lego Map and visualize Columbus Voyage - Rayshade rWalkthrough [GIF]](https://arthurwelle.github.io/RayshaderWalkthrough/index.html)
+* [Subplots in maps with ggplot2](https://ikashnitsky.github.io/2017/subplots-in-maps/)
+* [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
+
+* [Spatial.ly Blog](http://spatial.ly/) by James Cheshire
+* [Bivariate Chloropleth Maps](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
+* [Value-by-Alpha Maps](http://andywoodruff.com/blog/value-by-alpha-maps/)
+
+* [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
+* [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
+* [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
+* [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
+* [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
+* [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
+* [mapextrud](https://github.com/neocarto/mapextrud) - Build Extruded Maps in R.
+* [geofacet](https://hafen.github.io/geofacet/) - R package for geographical faceting with ggplot2.
+
 </br>
 
 ## Data Visualization 
@@ -280,20 +303,6 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.
 * [ggdag](https://github.com/malcolmbarrett/ggdag) - An R package for working with causal directed acyclic graphs (DAGs).
 
-### Spatial Visualization
-
-* [Spatial.ly Blog](http://spatial.ly/) by James Cheshire
-* [Bivariate Chloropleth Maps](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
-* [Value-by-Alpha Maps](http://andywoodruff.com/blog/value-by-alpha-maps/)
-
-* [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
-* [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
-* [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
-* [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
-* [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
-* [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
-* [mapextrud](https://github.com/neocarto/mapextrud) - Build Extruded Maps in R.
-* [geofacet](https://hafen.github.io/geofacet/) - R package for geographical faceting with ggplot2.
 
 ### Tables
 
@@ -301,6 +310,41 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with knitr::kable() + pipe.
 * [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R.
 * [DT](https://github.com/rstudio/DT) - R Interface to the jQuery Plug-in DataTables.
+
+### Tutorials
+
+#### Plots
+
+* Create infographics in R
+  * [Create infographics with R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
+  * [How to Layout and Design an Infographic](https://alstatr.blogspot.com/2015/02/r-how-to-layout-and-design-infographic.html)
+  * [How to Create Infographics in R](http://nandeshwar.info/data-visualization/how-to-create-infographics-in-r/)
+* [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
+* [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
+* Fill area with an image
+  * [Use an image as area fill in an R plot (StackOverflow)](https://stackoverflow.com/questions/45777519/use-an-image-as-area-fill-in-an-r-plot)
+  * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
+* [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
+* [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
+* [Plot Bubble Packed Chart](https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/) 
+* [Create waterfall chart with ggplot2](https://anhhoangduc.com/blog/create-waterfall-chart-with-ggplot2/)
+* [Make xkcd style graphs](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs)
+* [Visualize Self-Organizing Map](http://blog.schochastics.net/post/soms-and-ggplot/)
+* [Use emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
+* [Make calendar with ggplot](https://chichacha.netlify.com/2018/05/26/making-calendar-with-ggplot-moon-phase-calendar/)
+* [Drawing a basketball court with R](https://egallic.fr/en/drawing-a-basketball-court-with-r/)
+* [Draw a Gantt chart](https://stackoverflow.com/questions/3550341/gantt-charts-with-r)
+
+
+#### Drawing
+
+* Create hex sticker
+  * [Making hex and twittercard with bunny and magick](https://www.ddrive.no/post/making-hex-and-twittercard-with-bunny-and-magick/)
+  * [gganimate your hex](https://www.ddrive.no/post/gganimate-your-hex/)
+* [Draw Animated TIE Fighter](https://www.wjakethompson.com/post/2018-05-04-animated-tie-fighter/)
+* [Making an animated contour plot](https://www.wjakethompson.com/post/2018-09-05-animated-contour-plot/)
+* [Draw a clock](https://www.wjakethompson.com/post/2018-11-27-ggclock/)
+
 
 ### Other helpful data visualization resources 
 
