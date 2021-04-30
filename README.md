@@ -20,6 +20,8 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [R Stats](#r-stats)
 * [{ggplot2}](#ggplot2)
   + [Useful Packages](#useful-packages)
+  + [Themes](#themes)
+  + [Domain-specific plots](#domain-specific-plots)
 * [Statistics with R](#statistics-with-r)
 * [Machine Learning with R](#machine-learning-with-r)
 * [R Spatial](#r-spatial)
@@ -27,7 +29,10 @@ Follow me on [Twitter](https://twitter.com/javedali99)
   + [Colors](#colors)
   + [Chart Types](#chart-types)
   + [Fonts](#fonts)
-  + [Mapping](#mapping)
+  + [Interactive plots](#Interactive-plots)
+  + [Network Visualization](#network-visualization)
+  + [Spatial Visualization](#spatial-visualizatio)
+  + [Tables](#tables)
   + [Other helpful resources](#other-helpful-data-visualization-resources)
 * [R Markdown](#r-markdown)
 * [R Shiny Apps](#r-shiny-apps)
@@ -89,7 +94,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Data science with R: A robust toolkit for psychological research](https://robust-tools.djnavarro.net/) — a free course by Danielle Navarro
 * [Statistics 431: Advanced Statistical Computing with R](https://cal-poly-advanced-r.github.io/STAT-431/) — 9-week online course at Cal Poly taught by Dr. Kelly Bodwin and Dr. Hunter Glanz
 
-
+</br>
 
 ## `{ggplot2}` 
 
@@ -124,6 +129,39 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * `{rayshader}` — hillshaded maps in 2D & 3D → [github.com/tylermorganwall/rayshader](github.com/tylermorganwall/rayshader)
 * `{showtext}` — use custom fonts → [github.com/yixuan/showtext](github.com/yixuan/showtext)
 
+### Themes
+
+* [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
+* [ggthemes](https://github.com/jrnold/ggthemes) - Additional themes, scales, and geoms for ggplot2.
+* [ggpomological](https://github.com/gadenbuie/ggpomological) - Pomological plot theme for ggplot2 .
+* [ggtech](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes, scales, and geoms .
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - Opinionated, typographic-centric ggplot2 themes and theme components.
+* [vapoRwave](https://github.com/moldach/vapoRwave) - Vaporwave themes and color palettes for ggplot2.
+* [tvthemes](https://github.com/Ryo-N7/tvthemes) - ggplot2 themes and palettes based on your favorite TV shows.
+* [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package.
+* [visibly](https://github.com/m-clark/visibly) - Functions related to R visualizations.
+* [xkcd](http://xkcd.r-forge.r-project.org/) - Graphs using the XKCD style (a webcomic of romance, sarcasm, math, and language). [[Tutorial]](https://github.com/cran/xkcd/blob/master/inst/doc/xkcd-intro.pdf)
+* [ggrough](https://github.com/xvrdm/ggrough) - Convert ggplot2 chart to roughjs.
+* [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](
+
+
+### Domain-specific plots
+
+* [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
+* [ggsoccer](https://github.com/Torvaney/ggsoccer) - Plot soccer event data in R/ggplot2.
+* [soccermatics](https://github.com/JoGall/soccermatics) - Tools for visualisation and analysis of soccer tracking and event data.
+* [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2.
+* [rchess](https://github.com/jbkunst/rchess) - Chess package for R.
+* [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
+* [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
+* [kinship2](https://github.com/sinnweja/kinship2) - Pedigree creation, plotting, and analytics. [[Vignette]](https://cran.r-project.org/web/packages/kinship2/vignettes/pedigree.html)
+* [GeomMLBStadiums](https://github.com/bdilday/GeomMLBStadiums) - Geoms to draw MLB stadiums in ggplot2.
+* [ggpacman](https://github.com/mcanouil/ggpacman) - A `ggplot2` and `gganimate` Version of Pac-Man.
+* [gglcd](https://github.com/cj-holmes/gglcd) - About
+  Programmatic production of Liquid Crystal alignment diagrams.
+* [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomic graphs in ggplot2.
+
+</br>
 
 ## Statistics with R 
 
@@ -134,7 +172,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Statistics and R](https://bookdown.org/animestina/phd_july_19/) — PhD Training Workshop by Anastasia Ushakova & Emma Waterston
 * [Teacups giraffes and statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
 
-
+</br>
 
 ## Machine Learning with R 
 
@@ -145,6 +183,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Diploma in Machine Learning with R studio](https://alison.com/course/diploma-in-machine-learning-with-r-studio) — free online machine learning course by R Studio
 * [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) — free online book :closed_book: by Christoph Molnar
 
+</br>
 
 ## R Spatial 
 
@@ -158,6 +197,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * ["Introduction to Web Mapping"](http://geobgu.xyz/web-mapping/) — free online book :closed_book: by Michael Dorman
 * [Introduction to GIS with R](https://www.jessesadler.com/post/gis-with-r-intro/) — a blogpost by Jesse Sadler
 
+</br>
 
 ## Data Visualization 
 
@@ -219,13 +259,48 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [The Ultimate Collection of Google Font Pairings](https://www.reliablepsd.com/ultimate-google-font-pairings/) — A list of great, well-designed font pairings from all those fonts hosted by Google (for when you’re looking for good contrasting or complementary fonts).
 
 
-### Mapping 
+### Interactive plots
+
+* [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
+* [rbokeh](https://github.com/bokeh/rbokeh) - R interface to Bokeh.
+* [ggiraph](https://github.com/davidgohel/ggiraph) - Make 'ggplot' graphics interactive.
+* [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets.
+* [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
+* [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
+* [billboarder](https://github.com/dreamRs/billboarder) - R Htmlwidget for billboard.js.
+* [scatterD3](https://github.com/juba/scatterD3) - R scatter plot htmlwidget based on D3.js.
+* [trelliscopejs](https://github.com/hafen/trelliscopejs) - TrelliscopeJS R Package.
+* [googleVis](https://github.com/mages/googleVis) - Interface between R and the Google Chart Tools.
+
+### Network Visualization
+
+* [geomnet](https://github.com/sctyner/geomnet) - Network Visualization in the ggplot2 Framework.
+* [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
+* [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization.
+* [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.
+* [ggdag](https://github.com/malcolmbarrett/ggdag) - An R package for working with causal directed acyclic graphs (DAGs).
+
+### Spatial Visualization
 
 * [Spatial.ly Blog](http://spatial.ly/) by James Cheshire
 * [Bivariate Chloropleth Maps](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
 * [Value-by-Alpha Maps](http://andywoodruff.com/blog/value-by-alpha-maps/)
 
+* [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
+* [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
+* [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
+* [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
+* [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
+* [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
+* [mapextrud](https://github.com/neocarto/mapextrud) - Build Extruded Maps in R.
+* [geofacet](https://hafen.github.io/geofacet/) - R package for geographical faceting with ggplot2.
 
+### Tables
+
+* [formattable](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
+* [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with knitr::kable() + pipe.
+* [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R.
+* [DT](https://github.com/rstudio/DT) - R Interface to the jQuery Plug-in DataTables.
 
 ### Other helpful data visualization resources 
 
@@ -244,7 +319,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Data Literacy Starter Kit](https://docs.google.com/document/d/1kKRadOiF0LruItsvGA40fSDZkAQfCqC_Ela0gBdo8A4/edit) — Compilation of resources to become data literate by Laura Calloway.
 * [Seeing Data](http://seeingdata.org/) — A series of research projects about perceptions and visualizations.
 
-
+</br>
 
 ## R Markdown 
 
@@ -260,6 +335,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Summer of Blogdown](https://summer-of-blogdown.netlify.app/) — A week of blogdown for RStudio's summer 2019
 * [Hugo - Static Site Generator](https://www.mikedane.com/static-site-generators/hugo/) — A complete course by Mike Dane
 
+</br>
 
 ## R Shiny Apps 
 
@@ -269,13 +345,14 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [A Gradual Introduction to Shiny](https://laderast.github.io/gradual_shiny/) — workshop by Ted Laderas & Jessica Minnier
 * [Learn Shiny](https://shiny.rstudio.com/tutorial/) — tutorials :tv: by [RStudio](https://rstudio.com/)
 
+</br>
 
 ## R Package Development 
 
 * ["Mastering Software Development in R"](https://bookdown.org/rdpeng/RProgDA/) — free online book :closed_book: by Roger D. Peng, Sean Kross & Brooke Anderson
 * ["R Packages"](https://r-pkgs.org/) — free online book :closed_book: by Hadley Wickham
 
-
+</br>
 
 ## R Packages Tutorials 
 
@@ -291,6 +368,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Tidymodels: tidy machine learning in R](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) — a blogpost by Rebecca Barter 
 * [Exploring Tidymodels](https://www.kaggle.com/ar89dsl/exploring-tidymodels) 
 
+</br>
 
 ## Interesting Personal Blogs 
 
@@ -311,6 +389,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 * [Our World in Data](https://ourworldindata.org/blog) — "data on the world’s largest problems"
 * [Cédric Scherer](https://cedricscherer.netlify.app/) — data visualization
 
+</br>
 
 ## Get Help 
 
