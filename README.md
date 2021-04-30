@@ -4,7 +4,7 @@
   <img src="https://www.javedali.net/post/r-resources/featured.png?raw=true" alt="r-resources"/>
 </p>
 
-In this repository, you can find a number of great R books from top most creators and data scientists and other useful R resources (courses, tutorials, workshops, etc.) available online for **free** :books: :file_folder:
+In this repository, you can find a number of great R books from top most creators and data scientists and other useful R resources (courses, tutorials, workshops, etc.) available online for **FREE** :books: :file_folder:
 
 If you have any comments or suggestions for additions or improvements for this repository, submit an issue or a pull request. If you can’t contribute on GitHub, [send me an email](mailto:javedali28@gmail.com).
 
