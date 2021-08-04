@@ -10,7 +10,6 @@ If you have any comments or suggestions for additions or improvements for this r
 
 If you find these resources useful, you can consider showing your thanks by [buying me some coffee!](https://www.buymeacoffee.com/javedali99) 🍵 I would really appreciate it!
 
-<a href="https://www.buymeacoffee.com/javedali99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 50px !important;" ></a>
 
 Follow me on [Twitter](https://twitter.com/javedali99)
 
