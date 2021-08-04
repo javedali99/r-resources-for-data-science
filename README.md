@@ -49,6 +49,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 
 ## R Stats 
 
+* [Big Book of R](https://www.bigbookofr.com/index.html) — an online book :closed_book: by Oscar Baruffa consisting a list of R-related programming books 
 * ["Cookbook for R"](http://www.cookbook-r.com/) — free online book :closed_book: by Winston Chang
 * ["Technical Foundations of Informatics"](https://info201.github.io/) — free online book :closed_book: by Michael Freeman & Joel Ross
 * ["Efficient R Programming"](https://bookdown.org/csgillespie/efficientR/) — free online book :closed_book: by Colin Gillespie & Robin Lovelace
