@@ -18,7 +18,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 
 ### Content
 
-* [R Stats](#r-stats)
+* [R Programming](#r-programming)
 * [{ggplot2}](#ggplot2)
   + [Useful Packages](#useful-packages)
   + [Themes](#themes)
@@ -48,7 +48,7 @@ Follow me on [Twitter](https://twitter.com/javedali99)
 
 ---
 
-## R Stats 
+## R Programming 
 
 * ["Big Book of R"](https://www.bigbookofr.com/index.html) — an online book :closed_book: by Oscar Baruffa consisting a list of R-related programming books 
 * ["Cookbook for R"](http://www.cookbook-r.com/) — free online book :closed_book: by Winston Chang
