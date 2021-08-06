@@ -1,10 +1,10 @@
-# [Free Resources for Learning R Programming for Data Science](https://www.javedali.net/post/r-resources/)
+# A Biggest Collection of Free Books and Other Resources for R Programming
 
 <p align="center">
   <img src="https://www.javedali.net/post/r-resources/featured.png?raw=true" alt="r-resources"/>
 </p>
 
-In this repository, you can find a number of great R books from top most creators and data scientists and other useful R resources (courses, tutorials, workshops, etc.) available online for **FREE** :books: :file_folder:
+In this repository, you can find a number of great books from top most creators and data scientists and other useful R resources (courses, tutorials, workshops, etc.) available online for **FREE** :books: :file_folder:
 
 If you have any comments or suggestions for additions or improvements for this repository, submit an issue or a pull request. If you can’t contribute on GitHub, [send me an email](mailto:javedali28@gmail.com).
 
