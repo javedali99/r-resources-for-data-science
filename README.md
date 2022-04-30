@@ -1,7 +1,7 @@
 
 <p align="center">
   </a>
-  <h2 align="center">:book: Biggest Collection of Free R Programming Books and Other Related Resources 🗃️</h2>
+  <h2 align="center">:book: Biggest Collection of Free R Programming Books and Other Resources 🗃️</h2>
   
 <p align='center'>
   <img src="https://www.javedali.net/post/r-resources/featured.png?raw=true" alt="r-resources">
