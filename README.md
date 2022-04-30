@@ -1,8 +1,14 @@
-# A Biggest Collection of Free Books and Other Resources for R Programming
 
 <p align="center">
-  <img src="https://www.javedali.net/post/r-resources/featured.png?raw=true" alt="r-resources"/>
+  </a>
+  <h2 align="center">:book: Biggest Collection of Free R Programming Books and Other Related Resources 🗃️</h2>
+  
+<p align='center'>
+  <img src="https://www.javedali.net/post/r-resources/featured.png?raw=true" alt="r-resources">
+  </p>
+  
 </p>
+
 
 In this repository, you can find a number of great books from top most creators and data scientists and other useful R resources (courses, tutorials, workshops, etc.) available online for **FREE** :books: :file_folder:
 
@@ -11,11 +17,16 @@ If you have any comments or suggestions for additions or improvements for this r
 If you find these resources useful, give this repository a star ⭐️. 
 
 
+***
+<h3 align="center">:mailbox: Connect with me :mailbox:</h3>
+ <p align="center">
+      <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
+  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
+ <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
+ </p>
+ 
+ ***
 
-Follow me on [Twitter](https://twitter.com/javedali99)
-
-
----
 
 ### Content
 
